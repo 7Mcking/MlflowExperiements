@@ -1,2 +1,6 @@
 lightning_logs/
 mlruns/
+.gitignore
+.git/
+.idea/
+.pyvcache/
